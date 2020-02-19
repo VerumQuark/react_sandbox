@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "firstName": "Simon",
+    "lastName": "Testente"
+  },
+  {
+    "id": "2",
+    "firstName": "",
+    "lastName": "Testente",
+    "imgSrc": "Fffkk"
+  },
+  {
+    "id": "3",
+    "firstName": "Simon",
+    "lastName": "Testente",
+    "imgSrc": "https://cdn.cnn.com/cnnnext/dam/assets/190916175914-call-to-earth-background-large-169.jpg"
+  },
+  {
+    "id": "4",
+    "firstName": "Simon"
+  }
+]
